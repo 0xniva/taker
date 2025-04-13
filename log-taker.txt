@@ -3280,3 +3280,15 @@
 4/12/2025 | 8:21:42 PM | INFO | Trying to check user miner status... 
 4/12/2025 | 8:21:43 PM | INFO | Last mining time: 4/11/2025, 8:24:36 PM
 4/12/2025 | 8:21:43 PM | WARN | Mining already started, next mining time is: 4/12/2025, 8:24:36 PM
+4/13/2025 | 3:14:13 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/13/2025 | 3:14:14 AM | INFO | Start process for wallet 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD 
+4/13/2025 | 3:14:14 AM | INFO | Trying To Login for wallet: 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD 
+4/13/2025 | 3:14:15 AM | INFO | Login successful... 
+4/13/2025 | 3:14:15 AM | INFO | Trying to check user info... 
+4/13/2025 | 3:14:16 AM | INFO | User ID: 103306644 | Twitter: @reniivaa | Total Points: 1224000 
+4/13/2025 | 3:14:16 AM | INFO | Trying to check user miner status... 
+4/13/2025 | 3:14:17 AM | INFO | Last mining time: 4/11/2025, 8:24:36 PM
+4/13/2025 | 3:14:17 AM | INFO | Trying to start Mining for wallet: 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD 
+4/13/2025 | 3:14:17 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/13/2025 | 3:14:17 AM | INFO | Trying to activate mining on-chain for wallet: 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD 
+4/13/2025 | 3:14:29 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x94c9bf2b835fdf291264263e7d806ad5982774b3c78dd6007bc28c7bbfa847b8 
