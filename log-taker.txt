@@ -5441,3 +5441,16 @@
 5/20/2025 | 4:29:49 PM | INFO | Trying to check user miner status... 
 5/20/2025 | 4:29:50 PM | INFO | Last mining time: 5/19/2025, 8:25:54 PM
 5/20/2025 | 4:29:50 PM | WARN | Mining already started, next mining time is: 5/20/2025, 8:25:54 PM
+5/20/2025 | 8:26:31 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 8:26:31 PM | INFO | Start process for wallet 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD 
+5/20/2025 | 8:26:32 PM | INFO | Trying To Login for wallet: 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD 
+5/20/2025 | 8:26:33 PM | INFO | Login successful... 
+5/20/2025 | 8:26:33 PM | INFO | Trying to check user info... 
+5/20/2025 | 8:26:33 PM | INFO | User ID: 103306644 | Twitter: @reniivaa | Total Points: 2064000 
+5/20/2025 | 8:26:33 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 8:26:34 PM | INFO | Last mining time: 3/17/2025, 4:26:06 AM
+5/20/2025 | 8:26:34 PM | INFO | Trying to start Mining for wallet: 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD 
+5/20/2025 | 8:26:34 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/20/2025 | 8:26:34 PM | INFO | Trying to activate mining on-chain for wallet: 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD 
+5/20/2025 | 8:26:38 PM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86b8204655b80831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a05a22cf9077556ae18a89724dbdf84f22bc7870f7c26006b55e1cdc01e385be7fa046173cc5a45518e0ac767842b677e43dbc51976f32f651070d8d7f746be64a15","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
+5/20/2025 | 8:26:38 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
